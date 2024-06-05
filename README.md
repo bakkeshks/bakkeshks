@@ -1,9 +1,29 @@
-- 👋 Hi,I'm a full-stack developer with expertise in SEO, JavaScript, React, and Node.js. 
-- 👀 As an open-source enthusiast, I'm committed to contributing to the developer community. 
-- 🌱 I’m currently learning Javascript Full Stack Web Development.
-- 💞️ My tech stacks are React.js, Node.js, Express.js, Mongo DB, Amazon Web Services.
+## Hey there! I'm Bakkesh KS
+A Passionate Full Stack Developer and Technical Writer.
 
-<!---
-bakkeshks/bakkeshks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+**My Skillset:**
+
+* **Frontend:** ReactJS, NextJS
+* **Backend:** NodeJS, Express
+* **Database:** MongoDB
+* **JavaScript:** (ES6+)
+* **Version Control:** Git
+
+🟢 **Currently Open To:**  
+
+* **Full-Stack Developer Roles** (MERN stack!)
+* **Technical Writing Opportunities**
+
+**Wanna See What I'm Working On?**
+
+* Check out my projects on this GitHub profile!
+* Feel free to reach out if you have any questions or interesting projects in mind.
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakkeshks/) 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bakkesh_ks/)
+

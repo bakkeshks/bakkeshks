@@ -2,7 +2,7 @@
 A Passionate Full Stack Developer and Technical Writer.
 
 
-**My Skillset:**
+#### My Skillset:
 
 * **Frontend:** ReactJS, NextJS
 * **Backend:** NodeJS, Express
@@ -10,7 +10,7 @@ A Passionate Full Stack Developer and Technical Writer.
 * **JavaScript:** (ES6+)
 * **Version Control:** Git
 
-🟢 **Currently Open To:**  
+ #### Currently Open To:
 
 * **Full-Stack Developer Roles** (MERN stack!)
 * **Technical Writing Opportunities**

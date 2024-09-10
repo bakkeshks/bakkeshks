@@ -1,18 +1,22 @@
 ## Hey there! I'm Bakkesh KS
-A Passionate Full Stack Developer and Technical Writer.
+A passionate DevOps engineer with a background in developing cloud-native applications. Actively involved in the DevOps community, sharing knowledge and insights through blog posts. 
 
 
 #### My Skillset:
 
-* **Frontend:** ReactJS, NextJS
+* **Scripting:**  Bash, Python, JavaScript
+* **Cloud:** AWS 
+* **CI/CD:** Jenkins, GitHub Actions
+* **Containerization & Container Orchestration:** Docker, Kubernetes
+* **Configuration Management:** Ansible
+* **Infrastructure as Code:** Terraform
+* **Monitoring and Logging:** Prometheus, Grafana
+* **Version Control:** Git, GitHub
 * **Backend:** NodeJS, Express
-* **Database:** MongoDB
-* **JavaScript:** (ES6+)
-* **Version Control:** Git
 
  #### Currently Open To:
 
-* **Full-Stack Developer Roles** (MERN stack!)
+* **DevOps Enginner Roles**  
 * **Technical Writing Opportunities**
 
 **Wanna See What I'm Working On?**

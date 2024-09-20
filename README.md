@@ -12,12 +12,13 @@ A passionate DevOps engineer with a background in developing cloud-native applic
 * **Infrastructure as Code:** Terraform
 * **Monitoring and Logging:** Prometheus, Grafana
 * **Version Control:** Git, GitHub
-* **Backend:** NodeJS, Express
+* **Backend:** NodeJS, Express, MongoDB, Rest API, Wordpress CMS
+* **Frontend:** HTML, CSS, ReactJS, NextJS, SEO
 
  #### Currently Open To:
 
 * **DevOps Enginner Roles**  
-* **Technical Writing Opportunities**
+* **Backend Roles**
 
 **Wanna See What I'm Working On?**
 

@@ -8,8 +8,7 @@ A passionate DevOps engineer with a background in developing cloud-native applic
 * **Cloud:** AWS 
 * **CI/CD:** Jenkins, GitHub Actions
 * **Containerization & Container Orchestration:** Docker, Kubernetes
-* **Configuration Management:** Ansible
-* **Infrastructure as Code:** Terraform
+* **Configuration Management & IAC:** Ansible, Terraform
 * **Monitoring and Logging:** Prometheus, Grafana
 * **Version Control:** Git, GitHub
 * **Backend:** NodeJS, Express, MongoDB, Rest API, Wordpress CMS

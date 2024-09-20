@@ -4,7 +4,7 @@ A passionate DevOps engineer with a background in developing cloud-native applic
 
 #### My Skillset:
 
-* **Scripting:**  Bash, Python, JavaScript
+* **Programming Languages:**  Bash, Python, JavaScript
 * **Cloud:** AWS 
 * **CI/CD:** Jenkins, GitHub Actions
 * **Containerization & Container Orchestration:** Docker, Kubernetes

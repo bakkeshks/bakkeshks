@@ -1,9 +1,10 @@
 ## Hey there! I'm Bakkesh KS
-A passionate DevOps engineer with a background in developing cloud-native applications. Actively involved in the DevOps community, sharing knowledge and insights through blog posts. 
+A passionate DevOps engineer with a background in developing and deploying cloud-native applications. Actively involved in the DevOps community sharing knowledge and insights on Social media & Blog posts. 
 
 
 #### My Skillset:
 
+* **Cloud Native Development:** Familiar with building and deploying applications using microservices architecture and containerization technologies.
 * **Programming Languages:**  Bash, Python, JavaScript
 * **Cloud:** AWS 
 * **CI/CD:** Jenkins, GitHub Actions
@@ -11,8 +12,8 @@ A passionate DevOps engineer with a background in developing cloud-native applic
 * **Configuration Management & IAC:** Ansible, Terraform
 * **Monitoring and Logging:** Prometheus, Grafana
 * **Version Control:** Git, GitHub
-* **Backend:** NodeJS, Express, MongoDB, Rest API, Wordpress CMS
-* **Frontend:** HTML, CSS, ReactJS, NextJS, SEO
+* **Frontend & Backend:** NextJS, NodeJS, MongoDB, Rest API, Wordpress CMS
+
 
  #### Currently Open To:
 

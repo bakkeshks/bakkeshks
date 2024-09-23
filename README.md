@@ -17,7 +17,7 @@ A passionate DevOps engineer with a background in developing cloud-native applic
  #### Currently Open To:
 
 * **DevOps Enginner Roles**  
-* **Backend Roles**
+* **Technical Writing**
 
 **Wanna See What I'm Working On?**
 

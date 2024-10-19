@@ -1,33 +1,22 @@
 ## Hey there! I'm Bakkesh KS
-A passionate DevOps engineer with a background in developing and deploying cloud-native applications. Actively involved in the DevOps community sharing knowledge and insights on Social media & Blog posts. 
+👋  Hello! I’m Bakkesh KS, a passionate Data Analyst with a strong ability to transform raw data into actionable insights. I excel at solving complex problems and uncovering trends that drive informed decision-making. With a keen analytical mindset, I am dedicated to delivering impactful solutions that support business success.
 
 
 #### My Skillset:
 
-* **Cloud Native Development:** Familiar with building and deploying applications using microservices architecture and containerization technologies.
-* **Programming Languages:**  Bash, Python, JavaScript
-* **Cloud:** AWS 
-* **CI/CD:** Jenkins, GitHub Actions
-* **Containerization & Container Orchestration:** Docker, Kubernetes
-* **Configuration Management & IAC:** Ansible, Terraform
-* **Monitoring and Logging:** Prometheus, Grafana
-* **Version Control:** Git, GitHub
-* **Frontend & Backend:** NextJS, NodeJS, MongoDB, Rest API, Wordpress CMS
+* **Data Analysis:** Proficient in using tools like Python, R, and SQL to analyze datasets and derive meaningful conclusions.
+* **Data Visualization:** Skilled in creating compelling visual representations of data using Tableau, Power BI, and Matplotlib.
+* **Statistical Modeling:** Experienced in applying statistical techniques to predict outcomes and optimize processes.
 
 
  #### Currently Open To:
 
-* **DevOps Enginner Roles**  
-* **Technical Writing**
+* **Data Analytics**  
 
-**Wanna See What I'm Working On?**
+## 💬 Let's Connect!
+I'm always eager to learn from others and collaborate on exciting projects. Feel free to reach out if you'd like to connect or discuss data-related topics!
 
-* Check out my projects on this GitHub profile!
-* Feel free to reach out if you have any questions or interesting projects in mind.
-
-
-
-## 🔗 Links
+📧 bakkeshpruthvi49@gmail.com
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakkeshks/) 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bakkesh_ks/)

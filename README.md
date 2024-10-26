@@ -1,17 +1,18 @@
 ## Hey there! I'm Bakkesh KS
-👋  Hello! I’m Bakkesh KS, a passionate Data Analyst with a strong ability to transform raw data into actionable insights. I excel at solving complex problems and uncovering trends that drive informed decision-making. With a keen analytical mindset, I am dedicated to delivering impactful solutions that support business success.
+👋 Hello! I’m Bakkesh KS, a passionate Full Stack Developer dedicated to crafting efficient web solutions and optimizing online visibility. With a strong foundation in both front-end and back-end technologies, I excel at building robust applications that enhance user experience and drive business growth.
 
 
 #### My Skillset:
 
-* **Data Analysis:** Proficient in using tools like Python, R, and SQL to analyze datasets and derive meaningful conclusions.
-* **Data Visualization:** Skilled in creating compelling visual representations of data using Tableau, Power BI, and Matplotlib.
-* **Statistical Modeling:** Experienced in applying statistical techniques to predict outcomes and optimize processes.
+* **Frontend**: HTML, CSS, React.JS, Next JS, SEO
+* **Backend::** Node.JS, Express.JS, MongoDB, PostgreSQL, Rest API, WordPress CMS
+* **Tools/ Platform::** Git and GitHub, VS Code, DigitalOcean Platform
 
 
  #### Currently Open To:
 
-* **Data Analytics**  
+* **Full Stack & Backend Roles**
+* **SEO (Search Engine Optimization) Expert**   
 
 ## 💬 Let's Connect!
 I'm always eager to learn from others and collaborate on exciting projects. Feel free to reach out if you'd like to connect or discuss data-related topics!

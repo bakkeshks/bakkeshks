@@ -1,5 +1,5 @@
 ## Hey there! I'm Bakkesh KS
-👋 Hello! I’m Bakkesh KS, a Full Stack Engineer .
+👋 Hello! I’m Bakkesh KS, a Full Stack Developer.
 
 
 📧 bakkeshpruthvi49@gmail.com

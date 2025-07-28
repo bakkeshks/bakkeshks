@@ -1,6 +1,6 @@
 # Hey, I'm Bakkesh KS
 
-Hi, I'm a solo founder who loves working with AI — currently building AI agents, SaaS products, marketplace apps, and web scraping tools with a goal of reaching $1M ARR.
+Hi, I'm a solo founder who loves working with AI. building AI agents, SaaS products, marketplace apps and web scraping tools with a goal of reaching $1M ARR.
 
 ## 💼 What I’m Working On
 

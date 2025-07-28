@@ -1,6 +1,6 @@
 # Hey, I'm Bakkesh KS
 
-I'm a **solo founder** and **AI enthusiast** building **SaaS products**, **marketplace apps**, **web scraping tools** all with the goal of hitting **$1M using AI**.
+I'm a **solo founder** and **AI enthusiast** building **SaaS products**, **marketplace apps**, **web scraping tools** all with the goal of hitting **$1M ARR**.
 
 ## 💼 What I’m Working On
 

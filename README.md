@@ -1,11 +1,20 @@
-# Hey, I'm Bakkesh KS
+# Hey, I'm Bakkesh KS 👋  
+Solo founder. AI enthusiast. Builder on a mission to hit $1M ARR.
 
-Hi, I'm a solo founder who loves working with AI. building with a goal of reaching $1M ARR.
+## 🚀 What I'm Building
+I craft fast, lean MVPs for startups and solo founders who want results not fluff.  
+Currently deep in the trenches building:
 
-## 💼 What I’m Working On
+- 🧠 AI Agents that think before they act  
+- 🕸️ Web scrapers that don’t sleep  
+- 🛠️ SaaS tools that solve real problems  
+- 🏪 Marketplace apps that connect the dots
 
-- I build MVPs for startups and founders  
-- Currently building SaaS, AI Agents,  web scrapers and marketplace apps  
+## 💡 Why I Build
+Because I love turning ideas into products.  
+Because AI is the future—and I want to shape it.  
+Because solo doesn’t mean small.
+
 
 ## 🛠️ My Tech Stack
 

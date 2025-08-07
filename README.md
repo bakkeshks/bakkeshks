@@ -2,8 +2,8 @@
 Solo founder. AI enthusiast. Builder on a mission to hit $1M ARR.
 
 ## 🚀 What I'm Building
-I craft fast, lean MVPs for startups and solo founders who want results not fluff.  
-Currently deep in the trenches building:
+I craft fast, lean MVPs for startups and solo founders who want results.  
+Currently building:
 
 - 🧠 AI Agents that think before they act  
 - 🕸️ Web scrapers that don’t sleep  

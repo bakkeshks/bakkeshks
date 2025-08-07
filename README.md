@@ -12,9 +12,8 @@ Currently building:
 
 ## 💡 Why I Build
 Because I love turning ideas into products.  
-Because AI is the future—and I want to shape it.  
+Because AI is the future and I want to shape it.  
 Because solo doesn’t mean small.
-
 
 ## 🛠️ My Tech Stack
 

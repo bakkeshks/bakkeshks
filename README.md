@@ -1,7 +1,7 @@
 # Hey, I'm Bakkesh 
 Solo founder. AI enthusiast. On a $1M ARR mission.  
 
-🚀 I’m building AI agents, web scrapers, and SaaS products.  
+🚀 I’m building AI agents, web scrapers, and SaaS Products.  
 💡 Turning ideas into products. 
 
 ## 📩 Let’s Connect

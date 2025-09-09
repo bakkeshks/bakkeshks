@@ -1,24 +1,8 @@
-# Hey, I'm Bakkesh KS 👋  
-Solo founder. AI enthusiast. Builder on a mission to hit $1M ARR.
+# Hey, I'm Bakkesh 👋  
+Solo founder. AI enthusiast. On a $1M ARR mission.  
 
-## 🚀 What I'm Building
-I craft fast, lean MVPs for startups and solo founders who want results.  
-Currently building:
-
-- 🧠 AI Agents that think before they act  
-- 🕸️ Web scrapers that don’t sleep  
-- 🛠️ SaaS tools that solve real problems  
-- 🏪 Marketplace apps that connect the dots
-
-## 💡 Why I Build
-Because I love turning ideas into products.  
-Because AI is the future and I want to shape it.  
-Because solo doesn’t mean small.
-
-## 🛠️ My Tech Stack
-
-- **Frontend & Backend**: NextJS, ReactJS, NodeJS, Supabase, Tailwind CSS  
-- **Tools & Languages**: Python, TypeScript, N8N, CrewAI, Mastra AI, Apify   
+🚀 I’m building AI agents, web scrapers, and SaaS products.  
+💡 Turning ideas into products. 
 
 ## 📩 Let’s Connect
 

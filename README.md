@@ -1,17 +1,17 @@
-# Hey, I'm Bakkesh 
-Solo founder. AI enthusiast. On a $1M ARR mission.  
+# 👋 Hey, I'm Bakkesh
 
-🚀 I’m building AI agents, web scrapers, and SaaS Products.  
-💡 Turning ideas into products. 
+Solo founder turning ideas into **SaaS products** on the road to **$1M ARR**.
 
-## 📩 Let’s Connect
+🚀 Building SaaS products with AI-assisted development.  
+⚙️ Working with **Next.js**, **React**, **TypeScript**, **Node.js**, and **Postgres** to ship reliable, scalable software.  
 
-Always open to collabs, client work, or just geeking out about AI and automation.
+💡 Focused on **SaaS**, **Software 3.0**, and a **distribution first mindset**  combining product and growth from day one.  
 
-👉 **DM me on Twitter**: [@bakkesh_ks](https://twitter.com/bakkesh_ks)
+📬 Not open for client work. Always down to connect with other builders and founders.  
+👉 DM me on **X (Twitter)**: [@bakkesh_ks](https://x.com/bakkesh_ks)
 
+⚡ Always building. Always shipping.
 
-> ⚡ Big on AI. Always building. Always shipping.
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakkeshks/) 

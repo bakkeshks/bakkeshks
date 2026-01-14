@@ -3,11 +3,10 @@
 Solo founder turning ideas into **SaaS products** on the road to **$1M ARR**.
 
 🚀 Building SaaS products with AI-assisted development.  
-⚙️ Working with **Next.js**, **React**, **TypeScript**, **Node.js**, and **Postgres** to ship reliable, scalable software.  
 
 💡 Focused on **SaaS**, **Software 3.0**, and a **distribution first mindset**  combining product and growth from day one.  
 
-📬 Not open for client work. Always down to connect with other builders and founders.  
+📬 open for client work. Always down to connect with other builders and founders.  
 👉 DM me on **X (Twitter)**: [@bakkesh_ks](https://x.com/bakkesh_ks)
 
 ⚡ Always building. Always shipping.

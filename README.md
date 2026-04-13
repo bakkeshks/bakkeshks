@@ -1,11 +1,11 @@
 ## 👋 Hey, I'm Bakkesh
 
-***Shipping profitable SaaS on the path to $1M ARR.***
-
+#### Sold 
+- **animaltriangle** – Niche Pet blog website build using wordpress sold it for $5k.  
 
 #### 🚀 Currently Building
-- **[Your SaaS Name]** – One-line description of what it does  
-  👉 https://your-product-link.com
+- **influencertriangle** – Curated niche influencer database for AI/ SaaS Brands.  
+  👉 https://influencertriangle.com
 
 
 ### ⚙️ Approach

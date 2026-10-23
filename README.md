@@ -1,25 +1,20 @@
 ## 👋 Hey, I'm Bakkesh
 
-#### Sold 
-- **animaltriangle** – Niche Pet blog website build using wordpress sold it for $5k.  
+I build & grow software products. Currently working toward a $1M portfolio of apps.
 
-#### 🚀 Currently Building
-- **influencertriangle** – Curated niche influencer database for AI/ SaaS Brands.  
-  👉 https://influencertriangle.com
+#### 🛠 What I Make
+* Web SaaS
+* Chrome extensions
+* Desktop apps
+* Mobile apps
 
-
-### ⚙️ Approach
-- Build → Ship → Market   
-- AI assisted development  
-- Distribution first thinking  
-
+#### 💰 Sold
+* **animaltriangle**: Pet blog sold for $5,000.
 
 #### 📬 Open To
-Collaborations, early users & feedback
-
+* Building MVPs
+* Product growth
+* Answering any questions
 
 #### 🔗 Connect
-- X (Twitter): https://twitter.com/bakkesh_ks
-
-
-⚡ Always building. Always shipping.
+* [X (Twitter)](https://twitter.com/bakkesh_ks)
